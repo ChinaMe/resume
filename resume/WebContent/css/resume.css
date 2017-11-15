@@ -1,0 +1,33 @@
+body{width:100%; height:100%; overflow-x: hidden;}
+
+.resume_box {margin: 0 auto; width: 900px; margin-top:30px; font-family: "Arial","Microsoft YaHei","ºÚÌå","ËÎÌå",sans-serif; font-size:13px; border:1px solid #f2f2f2; background-color: #fafafa; padding: 30px 30px;}
+.resume_left {width:65%; float:left;}
+.resume_right {margin-left:10px; width:30%; min-width: 300px; float: left;}
+
+.resume_header{width:500px; text-align: center; height: 50px; line-height: 35px;}
+.resume_header p{font-size: 20px; font-weight: bold;}
+
+.resume_top {min-height: 120px;}
+.shadow {width: 116px; height: 116px; border-radius: 70px; border: 4px solid #7FFF00;}
+.introduce_img {width: 116px; height: 116px; float: left;}
+.introduce_info {width: 250px; height: 100%; margin-left: 165px; padding-top: 25px;}
+
+.base_box, .work_box, .contact_box, .ability_box, .education_box{padding-left: 10px;}
+.base_box, .work_box, .ability_box, .education_box {padding-top: 10px;}
+.base_info, .work_info, .contact_info, .ability_info, .education_info {padding-left: 30px;}
+
+.work_info ul li{width: 335px; line-height: 15px; padding-top: 1px; margin-left: -30px;}
+.work_info ul li:first-child{padding-top: 0px !important;}
+.work_company_name{display: inline-block; float: right; padding-right: 10px;}
+
+.resume_center {width:900px; padding-top: 12px;}
+.expirence_box h3, .project_box h3 {text-align: center;}
+
+.expirence_info ul li {padding-top: 8px;}
+.work_duty{float:left;}
+.work_content{margin-left: 65px;}
+
+
+.resume_clear {clear:both;}
+
+
